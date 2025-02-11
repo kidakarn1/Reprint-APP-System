@@ -402,7 +402,6 @@ Public Class menu_form
         pd_line()
     End Sub
     Public Sub _m83_reprint()
-
         fillter_data.Image = Api.DownloadImage("http://192.168.161.102/reprint_app/images/filter_m83.png")
         fillter_data.Top = 190
         PictureBox3.Top = 220

@@ -76,10 +76,6 @@ Public Class newfa_reprint_form
         If wi_test = "" Then
             alert.Visible = True
         End If
-        ' Catch ex As Exception
-        '    MsgBox(ex.Message())
-        'End Try
-        ' Add any initialization after the InitializeComponent() call.
 
     End Sub
 
